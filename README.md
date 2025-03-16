@@ -24,7 +24,7 @@
 ```
 
 <video
-    src="https://github.com/GoodM4ven/vsc-tailwind-shades-generator/assets/121377476/48540e85-c678-42a6-9807-6a62b4c40dfc"
+    src="https://github.com/GoodM4ven/EXTENSION_VSC_tailwindcss-shades-generator/assets/121377476/48540e85-c678-42a6-9807-6a62b4c40dfc"
     width="100%"
 />
 
