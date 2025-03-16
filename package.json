@@ -10,16 +10,16 @@
         "vsc",
         "extension"
     ],
-    "version": "1.0.9",
+    "version": "1.0.10",
     "publisher": "GoodM4ven",
     "author": "GoodM4ven<GoodM4ven@proton.me>",
-    "homepage": "https://github.com/GoodM4ven/vsc-tailwind-shades-generator",
+    "homepage": "https://github.com/GoodM4ven/EXTENSION_VSC_tailwindcss-shades-generator",
     "repository": {
         "type": "git",
-        "url": "https://github.com/GoodM4ven/vsc-tailwind-shades-generator.git"
+        "url": "https://github.com/GoodM4ven/EXTENSION_VSC_tailwindcss-shades-generator.git"
     },
     "bugs": {
-        "url": "https://github.com/GoodM4ven/vsc-tailwind-shades-generator/issues"
+        "url": "https://github.com/GoodM4ven/EXTENSION_VSC_tailwindcss-shades-generator/issues"
     },
     "categories": [
         "Other"
